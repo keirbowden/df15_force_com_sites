@@ -54,8 +54,11 @@ _Verification here that the page has been created and contains the "/TrailheadLi
 3. On the resulting page, enter the name of the Force.com domain for your site, check the box to indicate you have read and accepted the Terms of Use and click the **Register My Force.com Domain** button
 
   ![](images/site_domain.png)
+  
 4. When the domain is registered, the page is updated with a **Sites** section. 
+  
   ![](images/sites_new.png)  
+
 5. Click the **New** button in the **Sites** section  
 6. On the resulting, **Site Edit** page, enter **Trailhead** for the **Site Label** and **Site Name**  
 6. Check the **Active** box  
@@ -69,12 +72,17 @@ _not sure if the presence of a site can be checked via the Trailhead tools?_
 ##Step 4 - Add the Pages to the Site
 When the site is saved, the Site Details page for the Trailhead site is displayed.
 
-1. Scroll down to the **Site Visualforce Pages** section and click the **Edit** button  
-![](images/site_pages.png)
+1. Scroll down to the **Site Visualforce Pages** section and click the **Edit** button 
+
+  ![](images/site_pages.png)
+  
 2. On the resulting page, highlight the **TrailheadLinks** page in the **Available Visualforce Pages** list and click the **Add** button to move it to the **Enabled Visualforce Pages** list:
-![](images/site_add_vf.png)
-> Note that the **TrailheadHome** page is already present in the **Enabled Visualforce Pages** list, as it has been identified as the home page for the Force.com Site  
+
+  ![](images/site_add_vf.png)
+
 3. Click the **Save** button 
+
+> Note that the **TrailheadHome** page is already present in the **Enabled Visualforce Pages** list, as it has been identified as the home page for the Force.com Site 
 
 ##Step 5 - View the Site
 Once the available Visualforce pages have been saved, the **Site Details** page for the Trailhead site is displayed.
