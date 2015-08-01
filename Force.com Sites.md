@@ -49,12 +49,13 @@ _Verification here that the page has been created and contains the "/TrailheadLi
 1. In your DE environment click **Your Name | Setup**
 2. Locate the **App Setup** menu, expand the **Develop** submenu and select the **Sites** option
 
-![](images/sites_menu.png)
+  ![](images/sites_menu.png)
+
 3. On the resulting page, enter the name of the Force.com domain for your site, check the box to indicate you have read and accepted the Terms of Use and click the **Register My Force.com Domain** button
 
-![](images/site_domain.png)
+  ![](images/site_domain.png)
 4. When the domain is registered, the page is updated with a **Sites** section. 
-![](images/sites_new.png)  
+  ![](images/sites_new.png)  
 5. Click the **New** button in the **Sites** section  
 6. On the resulting, **Site Edit** page, enter **Trailhead** for the **Site Label** and **Site Name**  
 6. Check the **Active** box  
